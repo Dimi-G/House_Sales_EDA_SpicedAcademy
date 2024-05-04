@@ -1,14 +1,9 @@
 altair==5.0.1
 jupyterlab==4.0.1
 jupyterlab-dash==0.1.0a3
-jupyterlab_pygments==0.3.0
-jupyterlab_server==2.27.1
-jupyterlab_widgets==3.0.10
 ipywidgets==8.0.6
 matplotlib==3.7.1
-matplotlib-inline==0.1.7
 pandas==2.0.2
-jupyterlab-dash==0.1.0a3
 seaborn==0.12.2
 haversine==2.8.1
 missingno==0.5.2
